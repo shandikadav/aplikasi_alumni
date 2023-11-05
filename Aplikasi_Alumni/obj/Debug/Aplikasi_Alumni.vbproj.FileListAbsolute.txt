@@ -1,0 +1,26 @@
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\bin\Debug\Aplikasi_Alumni.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\bin\Debug\Aplikasi_Alumni.exe
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\bin\Debug\Aplikasi_Alumni.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\bin\Debug\Aplikasi_Alumni.xml
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.Menu_utama.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.exe
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.xml
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.pendaftaran_alumni.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.konfirmasi_pendaftaran.resources
+c:\users\m3m\documents\visual studio 2015\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.login_form.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\bin\Debug\Aplikasi_Alumni.exe.config
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.exe
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.xml
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.pdb
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.vbprojResolveAssemblyReference.cache
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.konfirmasi_pendaftaran.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.login_form.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.menu_siswa.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.Menu_utama.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.Resources.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.pendaftaran_alumni.resources
+D:\IT Software\Projects\Aplikasi_Alumni\Aplikasi_Alumni\obj\Debug\Aplikasi_Alumni.vbproj.GenerateResource.Cache
